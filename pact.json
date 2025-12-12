@@ -1,0 +1,58 @@
+{
+  "version": "1.0.0",
+  "user": "cloudboy-jh",
+  "modules": {
+    "shell": {
+      "// example_darwin": {
+        "source": "./shell/darwin.zshrc",
+        "target": "~/.zshrc",
+        "strategy": "symlink"
+      }
+    },
+    "editor": {
+      "// example_neovim": {
+        "source": "./editor/nvim/",
+        "target": "~/.config/nvim",
+        "strategy": "symlink"
+      },
+      "// example_keybindings": {
+        "source": "./editor/keybindings.json",
+        "target": "~/.config/Code/User/keybindings.json",
+        "strategy": "symlink"
+      },
+      "// example_snippets": {
+        "source": "./editor/snippets/",
+        "target": "~/.config/Code/User/snippets/",
+        "strategy": "symlink"
+      }
+    },
+    "terminal": {},
+    "git": {
+      "// example_config": {
+        "source": "./git/.gitconfig",
+        "target": "~/.gitconfig",
+        "strategy": "symlink"
+      }
+    },
+    "cli-tools": {},
+    "scripts": {},
+    "dotfiles": {},
+    "ai": {
+      "prompts": {},
+      "agents": {},
+      "providers": {},
+      "mcp": {}
+    },
+    "ricing": {
+      "themes": {},
+      "fonts": {},
+      "wallpapers": {},
+      "colors": {},
+      "icons": {}
+    }
+  },
+  "secrets": [
+    "// ANTHROPIC_API_KEY",
+    "// OPENAI_API_KEY"
+  ]
+}
