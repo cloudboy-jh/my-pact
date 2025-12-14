@@ -1,0 +1,61 @@
+{
+  "name": "jackhortonlol",
+  "version": "1.0.0",
+  
+  "shell": {
+    "prompt": {
+      "tool": "oh-my-posh",
+      "theme": "capr4n",
+      "source": "https://raw.githubusercontent.com/JanDeDobbeleer/oh-my-posh/main/themes/capr4n.omp.json"
+    },
+    "tools": ["zoxide"]
+  },
+
+  "git": {
+    "user": "cloudboy-jh",
+    "email": "150858084+cloudboy-jh@users.noreply.github.com",
+    "defaultBranch": "master",
+    "lfs": true
+  },
+
+  "terminal": {
+    "font": "JetBrainsMono Nerd Font",
+    "fontSize": 15
+  },
+
+  "editor": {
+    "default": "zed",
+    "theme": "Catppuccin Frappé (Blur) [Heavy]",
+    "keymap": "vscode"
+  },
+
+  "llm": {
+    "providers": ["claude", "openai", "gemini", "grok"],
+    "coding": {
+      "agents": ["claude-code", "opencode", "droid"],
+      "models": ["claude-opus", "claude-sonnet"]
+    },
+    "chat": ["claude", "grok"],
+    "local": {
+      "runtime": "ollama",
+      "models": ["qwen-coder", "mistral", "kimi"]
+    }
+  },
+
+  "cli": {
+    "tools": ["bun", "node", "lazygit", "oh-my-posh", "zoxide"],
+    "custom": ["pact", "churn", "annotr"]
+  },
+
+  "apps": {
+    "windows": {
+      "shortcuts": {
+        "brave": "C:\\Program Files\\BraveSoftware\\Brave-Browser\\Application\\brave.exe",
+        "cursor": "C:\\Users\\johns\\AppData\\Local\\Programs\\cursor\\Cursor.exe",
+        "spotify": "C:\\Users\\johns\\AppData\\Roaming\\Spotify\\Spotify.exe",
+        "steam": "C:\\Program Files (x86)\\Steam\\steam.exe",
+        "discord": "C:\\Users\\johns\\AppData\\Local\\Discord\\Update.exe"
+      }
+    }
+  }
+}
