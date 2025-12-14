@@ -1,5 +1,4 @@
 <p align="center">
-  <img src="pact-clear-logo.png" alt="Pact Logo" width="200"/>
 </p>
 
 <h1 align="center">my-pact</h1>
