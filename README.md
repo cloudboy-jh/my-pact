@@ -20,13 +20,13 @@
 
 ## About Me
 
-I'm **Jack** — an AI-Centric Product Engineer who builds developer tools and ships focused, lightweight software. I work at [Zyris](https://zyris.com) building complex data infrastructure, and in my spare time I create terminal-native utilities that solve real problems without the bloat.
+I'm **Jack** — as a Product Engineer who builds developer tools and ships focused, lightweight software. I work at a Medical Device Company building software for our various departments, and in my spare time I create terminal-native utilities that solve real problems without the bloat.
 
 ### Philosophy
 
 **Build for independence, optimize for optionality.**
 
-I gravitate toward lightweight tools over bloated platforms, open source over vendor lock-in, and terminal-native over Electron apps. My approach: minimize dependencies, maximize portability, maintain control. Whether that's a codebase, a dev environment, or a career — stay light, stay free, ship things that last.
+I gravitate toward lightweight tools over bloated platforms, and open source over vendor lock-in. My approach: minimize dependencies, maximize portability, maintain control. Whether that's a codebase, a dev environment, or a career — stay light, stay free, ship things that last.
 
 ### What I Build
 
