@@ -6,7 +6,7 @@
     "prompt": {
       "tool": "oh-my-posh",
       "theme": "capr4n",
-      "source": "https://raw.githubusercontent.com/JanDeDobbeleer/oh-my-posh/main/themes/capr4n.omp.json" dddd
+      "source": "https://raw.githubusercontent.com/JanDeDobbeleer/oh-my-posh/main/themes/capr4n.omp.json"
     },
     "tools": ["zoxide"]
   },
